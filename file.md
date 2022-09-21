@@ -1,3 +1,3 @@
-#Username : alphacold07
+Username : alphacold07
 
-#Branch : master
+Branch : master
